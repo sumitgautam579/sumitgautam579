@@ -1,7 +1,12 @@
 
-# 👋 Hi, I'm Sumit Gautam  
 
-I'm a passionate DevOps Engineer AWS certified from India with over 3 years of experience specializing in cloud infrastructure, CI/CD automation, and container orchestration. Available for collaboration and contributions to cloud-native projects.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Sumit+Gautam+:)&font=Fira%20Code&center=true&width=440&height=45&color=39FF14&vCenter=true&pause=3000&size=30" />
+</div> 
+
+<br>
+
+I'm a passionate DevOps Engineer, AWS certified from India, with specialization in cloud infrastructure, CI/CD automation, and container orchestration. Available for collaboration and contributions to cloud-native projects.
 
 ## 💻 Languages & Tools
 I work with DevOps, Cloud, Microservices, Containers, and everything in between.
