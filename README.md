@@ -8,6 +8,7 @@
 
 I'm a passionate DevOps Engineer, AWS certified from India, with specialization in cloud infrastructure, CI/CD automation, and container orchestration. Available for collaboration and contributions to cloud-native projects.
 
+
 ## 💻 Languages & Tools
 I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 
@@ -33,5 +34,9 @@ I work with DevOps, Cloud, Microservices, Containers, and everything in between.
 - 💬 Ask me anything about DevOps!
 - 📫 Email: [sumitgautam579@gmail.com](mailto:sumitgautam579@gmail.com)
 - 🔗 LinkedIn: [Sumit Gautam](https://www.linkedin.com/in/sumitgautam95783)
-
+- 📜 Certifications:
+  - [AWS Certified Developer - Associate certificate ](https://cp.certmetrics.com/amazon/en/public/verify/credential/MGNRJ17C6BV41GSV)
+  - [AWS Solutions Architect](https://github.com/sumitgautam579/sumitgautam579/blob/main/Certificates/AWS_Solutions%20Architect%20-%20Associate.pdf)
+    
+              
 ⚡ **Fun Fact:** I love to automate everything that can be automated!  
